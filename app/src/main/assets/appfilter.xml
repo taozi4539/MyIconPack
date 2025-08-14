@@ -1,0 +1,10 @@
+<resources>
+    <!-- QQ -->
+    <item component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq_icon" />
+
+    <!-- 微信 -->
+    <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="wechat_icon" />
+
+    <!-- Bilibili -->
+    <item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="bilibili_icon" />
+</resources>
